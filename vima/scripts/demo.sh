@@ -1,0 +1,1 @@
+python3 demo.py --ckpt=../checkpoints/2M.ckpt --device=cpu --partition=placement_generalization --task=visual_manipulation
